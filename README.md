@@ -76,18 +76,23 @@ Each button uses a different combination of:
 
 ---
 
-## 🚀 Getting Started
+## ▶️ How to Run
 
-1. Download or clone the project.
-2. Open `index.html` in any modern browser.
-3. Scroll through the page.
-4. Hover over each button to see the animations ✨
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/sagesakshi27/Button-Hover-Effects.git
+cd Button-Hover-Effects
+```
+
+### 2️⃣ Open the Project
+
+Open `index.html` in any modern web browser.
 
 ---
 
 ## 📌 Use Cases
 
-- UI animation demos
 - CSS hover effect practice
 - Frontend portfolio components
 - Learning CSS transitions & transforms
